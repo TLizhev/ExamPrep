@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\fostata\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\fostata\\.nuget\\packages"
+    ]
+  }
+}

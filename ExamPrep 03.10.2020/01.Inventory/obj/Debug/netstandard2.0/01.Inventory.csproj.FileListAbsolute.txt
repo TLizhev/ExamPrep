@@ -1,0 +1,9 @@
+C:\Users\fostata\Desktop\ExamPrep\ExamPrep 03.10.2020\01.Inventory\bin\Debug\netstandard2.0\01.Inventory.deps.json
+C:\Users\fostata\Desktop\ExamPrep\ExamPrep 03.10.2020\01.Inventory\bin\Debug\netstandard2.0\01.Inventory.dll
+C:\Users\fostata\Desktop\ExamPrep\ExamPrep 03.10.2020\01.Inventory\bin\Debug\netstandard2.0\01.Inventory.pdb
+C:\Users\fostata\Desktop\ExamPrep\ExamPrep 03.10.2020\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.csprojAssemblyReference.cache
+C:\Users\fostata\Desktop\ExamPrep\ExamPrep 03.10.2020\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.AssemblyInfoInputs.cache
+C:\Users\fostata\Desktop\ExamPrep\ExamPrep 03.10.2020\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.AssemblyInfo.cs
+C:\Users\fostata\Desktop\ExamPrep\ExamPrep 03.10.2020\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.csproj.CoreCompileInputs.cache
+C:\Users\fostata\Desktop\ExamPrep\ExamPrep 03.10.2020\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.dll
+C:\Users\fostata\Desktop\ExamPrep\ExamPrep 03.10.2020\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.pdb
